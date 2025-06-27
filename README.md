@@ -8,7 +8,7 @@ This repository provides the source code for **MoCE-ViT**, a deep learning pipel
 
 The dataset used is available on IEEE DataPort:
 
- **[Paddy Crop RGB Drone Data] [doi:10.21227/jzw5-hk19](https://ieee-dataport.org/documents/paddy-crop-rgb-drone-data)) 
+ [Paddy Crop RGB Drone Data] [doi:10.21227/jzw5-hk19](https://ieee-dataport.org/documents/paddy-crop-rgb-drone-data)) 
 - RGB images (224×224 px) labeled as healthy or unhealthy
 - Captured using the **DJI Mavic 3M RGB sensor**
 - Fields located at IIT Kharagpur and nearby agricultural plots
