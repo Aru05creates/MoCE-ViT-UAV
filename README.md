@@ -59,8 +59,8 @@ All outputs and logs will be stored in the configured output directory.
 
 ##  Citation
 
-> This work has been submitted to the IEEE Transactions on Image Processing (TIP).  
-> Title: *MoCE-ViT: Momentum-Contrastive Enhanced Vision Transformer for UAV-Based Crop Health Classification *
+> This work has been submitted to the IEEE Journal of Selected Topics in Signal Processing.  
+> Title: MoCE-ViT: Momentum-Contrastive Enhanced Vision Transformer for UAV-Based Crop Health Classification 
 
 Please cite the dataset and this repository if used in research or publications.
 
